@@ -4,7 +4,10 @@ Welcome to my GitHub repository! This collection showcases various data analytic
 **🔍 What's Inside?**
 
 **Data Analysis:** Exploratory Data Analysis (EDA) on real-world datasets.
+
 **Machine Learning:** Predictive modeling using Scikit-learn.
+
 **SQL Queries:** Data extraction, transformation, and analysis.
+
 **Tableau Dashboards:** Interactive visualizations for business insights.
 📂 Feel free to explore the projects, check out the code, and provide any feedback! 🚀
