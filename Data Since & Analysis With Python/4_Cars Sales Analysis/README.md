@@ -10,11 +10,15 @@ Objective: Perform descriptive analysis to explore the dataset, understand trend
 Data Analysis:
 -
 Identified sales trends over time.
+
 Explored relationships between features.
-identify the top sales for cars , dealers 
+
+identify the top sales for cars , dealers. 
+
 Used statistical methods and visualizations to uncover meaningful insights.
 
 Tools & Techniques:
 -
 Python Libraries: Pandas, NumPy, Matplotlib, Seaborn.
+
 Statistical Analysis: Descriptive statistics and trend analysis.
