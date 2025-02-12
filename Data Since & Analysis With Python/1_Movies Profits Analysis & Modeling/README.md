@@ -1,4 +1,4 @@
--Movies Profits Analysis & Modeling 🎥
+Movies Profits Analysis & Modeling 🎥
 -
 This project focuses on analyzing movie data to understand key factors that contribute to a movie's profitability. The workflow includes:
 -Data Cleaning: Removing duplicates, handling missing values, and preparing the dataset for analysis.
